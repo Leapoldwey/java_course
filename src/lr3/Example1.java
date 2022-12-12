@@ -8,6 +8,9 @@ public class Example1 {
 
         System.out.print("Введите число от 1 до 7: ");
         int num = in.nextInt();
+
+        System.out.println("switch: ");
+
         switch (num) {
             case 1:
                 System.out.println("День недели: понедельник");
@@ -33,6 +36,25 @@ public class Example1 {
             default:
                 System.out.println("Введено некорректное значение");
             in.close();
+        }
+        System.out.println("if: ");
+
+        if (num == 1){
+            System.out.println("День недели: понедельник");
+        } else if (num == 2){
+            System.out.println("День недели: вторник");
+        } else if (num == 3){
+            System.out.println("День недели: среда");
+        } else if (num == 4){
+            System.out.println("День недели: четверг");
+        } else if (num == 5){
+            System.out.println("День недели: пятница");
+        } else if (num == 6){
+            System.out.println("День недели: суббота");
+        } else if (num == 7){
+            System.out.println("День недели: воскресенье");
+        } else {
+            System.out.println("Введено некорректное значение");
         }
     }
 }
