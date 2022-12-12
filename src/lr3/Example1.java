@@ -35,7 +35,6 @@ public class Example1 {
                 break;
             default:
                 System.out.println("Введено некорректное значение");
-            in.close();
         }
         System.out.println("if: ");
 
@@ -55,6 +54,7 @@ public class Example1 {
             System.out.println("День недели: воскресенье");
         } else {
             System.out.println("Введено некорректное значение");
+            in.close();
         }
     }
 }
