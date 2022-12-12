@@ -9,6 +9,8 @@ public class Example2 {
         System.out.print("Введите день недели: ");
         String weekday = in.nextLine();
 
+        System.out.println("switch: ");
+
         switch (weekday){
             case "понедельник":
                 System.out.println("1 день недели");
@@ -33,8 +35,29 @@ public class Example2 {
                 break;
             default:
                 System.out.println("Нет такого дня недели");
+        }
+
+        System.out.println("if: ");
+
+        if (weekday.equals("понедельник")){
+            System.out.println("1 день недели");
+        } else if (weekday.equals("вторник")){
+            System.out.println("2 день недели");
+        } else if (weekday.equals("среда")){
+            System.out.println("3 день недели");
+        } else if (weekday.equals("четверг")){
+            System.out.println("4 день недели");
+        } else if (weekday.equals("пятница")){
+            System.out.println("5 день недели");
+        } else if (weekday.equals("суббота")){
+            System.out.println("6 день недели");
+        } else if (weekday.equals("воскресенье")){
+            System.out.println("7 день недели");
+        } else {
+            System.out.println("Нет такого дня недели");
             in.close();
         }
+
     }
 }
 /*
