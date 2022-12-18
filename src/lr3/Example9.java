@@ -1,6 +1,5 @@
 package lr3;
 
-import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -34,7 +33,7 @@ public class Example9 {
                 }
             }
         }
-        for (int k = 0; k < arr.length; k++) { // Вывод итогового сообщения
+        for (int k = 0; k < arr.length; k++) {
             if (min_nums[k] == min && min_count[k] != 0) {
                 System.out.println("Элемент массива [" + min_count[k] + "] " + min_nums[k] + " - минимальное значение");
             }

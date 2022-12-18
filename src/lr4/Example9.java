@@ -4,7 +4,7 @@ package lr4;
 import java.util.Scanner;
 
 public class Example9 {
-    private static class Caeser {
+    private static class Caeser2 {
         static char letters[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
                 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
                 't', 'u', 'v', 'w', 'x', 'y', 'z'};
@@ -55,14 +55,14 @@ public class Example9 {
         String text = in.nextLine();
         System.out.print("Введите ключ: ");
         int shift = in.nextInt();
-        String beforeStr = Caeser.before(text.toLowerCase(), shift);
+        String beforeStr = Caeser2.before(text.toLowerCase(), shift);
         System.out.print("Текст после преобразования :" + "\"" + beforeStr + "\"");
         System.out.println("\nВыполнить обратное преобразование? (y/n)");
         boolean x = true;
         while (x) {
             String answer = in.next();
             if (answer.equals("y") || answer.equals("Y")) {
-                String decryptStr = Caeser.after(beforeStr, shift);
+                String decryptStr = Caeser2.after(beforeStr, shift);
                 System.out.println(decryptStr);
                 x = false;
             }
