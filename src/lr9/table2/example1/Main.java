@@ -15,6 +15,7 @@ public class Main {
             double avg = 0.0;
             int count = 0;
 
+            System.out.println("Введите значения: ");
             for (int i = 0; i < arr.length; i++) {
                 arr[i] = in.nextInt();
                 avg += arr[i];
@@ -28,10 +29,12 @@ public class Main {
             }
             avg /= arrLength;
             System.out.print("Среднее значение: " + avg + ", список: " + Arrays.toString(arr));
-        } catch (InputMismatchException e) {
-            System.out.println("Несоответствие числового типа данных");
-        }  catch (ArithmeticException e) {
-            System.out.println("Ошибка: " + e.getMessage());
+        } catch (NegativeArraySizeException e) {
+            System.err.println("ошибка: неверная длина массива");
+        } catch (NumberFormatException | InputMismatchException e) {
+            System.err.println("ошибка: несоответствие числового типа данных");
+        } catch (ArithmeticException e) {
+            System.err.println("ошибка: " + e.getMessage());
         }
     }
 }

@@ -1,8 +1,6 @@
 package lr9.table2.example2;
 
-import java.util.Arrays;
 import java.util.InputMismatchException;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -45,10 +43,12 @@ public class Main {
                 }
                 System.out.println();
             }
-        } catch (InputMismatchException e) {
-            System.out.println("ошибка: неверное значение");
+        } catch (NegativeArraySizeException e) {
+            System.err.println("ошибка: отрицательный размер матрицы");
+        } catch (NumberFormatException | InputMismatchException e) {
+            System.err.println("ошибка: неверное значение");
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println(e.getMessage() + ": данного столбца не существует");
+            System.err.println(e.getMessage() + ": данного столбца не существует");
         }
     }
 }

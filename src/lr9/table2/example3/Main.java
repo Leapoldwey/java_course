@@ -2,7 +2,6 @@ package lr9.table2.example3;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
-import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -23,10 +22,12 @@ public class Main {
                 sum += arr[i];
             }
             System.out.println("Сумма элементов: " + sum + ", список: " + Arrays.toString(arr));
+        } catch (NegativeArraySizeException e) {
+            System.err.println("ошибка: неверная длина массива");
         } catch (ArithmeticException e) {
-            System.out.println("Выход за границы диапазона");
-        } catch (InputMismatchException e) {
-            System.out.println("Ввод строки вместо числа");
+            System.err.println("ошибка: выход за границы массива");
+        } catch (NumberFormatException | InputMismatchException e) {
+            System.err.println("ошибка: ввод строки вместо числа");
         }
     }
 }
