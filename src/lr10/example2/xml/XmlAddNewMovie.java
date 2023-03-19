@@ -11,7 +11,7 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 
 public class XmlAddNewMovie {
-    public void getBook(String nameOfMovie, String evaluation, String year) {
+    public void getNewMovie(String nameOfMovie, String evaluation, String year) {
         try {
             DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();

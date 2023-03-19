@@ -19,7 +19,7 @@ public class XmlCreate {
 
             Document document = documentBuilder.newDocument();
 
-            Element rootElement = document.createElement("kinoPoisk");
+            Element rootElement = document.createElement("kinopoisk");
             document.appendChild(rootElement);
 
             Element movie1 = document.createElement("movie");

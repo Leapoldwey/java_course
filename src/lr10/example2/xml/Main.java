@@ -11,7 +11,7 @@ public class Main {
         xmlCreate.xmlCreate();
 
         XmlAddNewMovie xmlAddMovie = new XmlAddNewMovie();
-        xmlAddMovie.getBook("Ford против Ferrari", "8.2", "2019");
+        xmlAddMovie.getNewMovie("Ford против Ferrari", "8.2", "2019");
 
         SearchMoviesXml searchMovies = new SearchMoviesXml();
         searchMovies.searchForName("Джентельмены");

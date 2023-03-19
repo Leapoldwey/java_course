@@ -4,44 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr9">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_1_2_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_cliftonlabs_json_simple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/innoventsolutions_birt_runtime_w3c_dom_events_3_0_draft20060413_v201105210656.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jayway_restassured_json_path.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/ExcelCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/example.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/JsonParserCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/JsonParserRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/example-json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/linkParser/LinkParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/newsParsing/NewsParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/example1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/excel/ExcelImprove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/excel/ex2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/html/HtmlWriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/html/example2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/DeleteMoviesJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/JsonAddNewMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/JsonCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/SearchMoviesJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/example2-json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/DeleteMoviesXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/SearchMoviesXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/XmlAddNewMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/XmlCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/example2.xml" afterDir="false" />
+    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_course.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +163,7 @@
       <workItem from="1679155437601" duration="13676000" />
       <workItem from="1679218270362" duration="26333000" />
       <workItem from="1679247835775" duration="1002000" />
-      <workItem from="1679248923512" duration="306000" />
+      <workItem from="1679248923512" duration="1145000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669473634567</created>
@@ -362,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677840276907</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lr10">
+      <created>1679249901248</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679249901248</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,7 +368,8 @@
     <MESSAGE value="lr7" />
     <MESSAGE value="lr8" />
     <MESSAGE value="lr9" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr9" />
+    <MESSAGE value="lr10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
