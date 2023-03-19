@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jayway.restassured.json.path" type="repository">
+    <properties maven-id="com.jayway.restassured:json-path:2.9.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jayway/restassured/json-path/2.9.0/json-path-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-json/2.4.4/groovy-json-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.4/groovy-2.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/jayway/restassured/rest-assured-common/2.9.0/rest-assured-common-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

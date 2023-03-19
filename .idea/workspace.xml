@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr9">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_1_2_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/github_cliftonlabs_json_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/innoventsolutions_birt_runtime_w3c_dom_events_3_0_draft20060413_v201105210656.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jayway_restassured_json_path.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/ExcelCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/excel/example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/JsonParserCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/JsonParserRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/json/example-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/linkParser/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/newsParsing/NewsParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example1/xml/example1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/excel/ExcelImprove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/excel/ex2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/html/HtmlWriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/html/example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/DeleteMoviesJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/JsonAddNewMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/JsonCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/SearchMoviesJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/json/example2-json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/DeleteMoviesXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/SearchMoviesXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/XmlAddNewMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/XmlCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/example2/xml/example2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr9/table2/example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr9/table2/example1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr9/table2/example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr9/table2/example2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr9/table2/example3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr9/table2/example3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_course.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,28 +69,53 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2I0Y3XatBmZXnGGzY6soEq2pZWD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/User/IdeaProjects/java_course",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lr9.table2.example3.Main">
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.example1.Example12" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1\json" />
+      <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1\xml" />
+      <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HtmlWriteToFile">
+    <configuration name="ExcelImprove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example2.excel.ExcelImprove" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.example1.*" />
+          <option name="PATTERN" value="lr10.example2.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.table2.example1.Main" />
+    <configuration name="HtmlWriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example2.html.HtmlWriteToFile" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.table2.example1.*" />
+          <option name="PATTERN" value="lr10.example2.html.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr9.table2.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.table2.example2.Main" />
+    <configuration name="XmlParserRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example1.xml.XmlParserRead" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.table2.example2.*" />
+          <option name="PATTERN" value="lr10.example1.xml.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr9.table2.example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.table2.example3.Main" />
+    <configuration name="hh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.example2.html.hh" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.table2.example3.*" />
+          <option name="PATTERN" value="lr10.example2.html.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.table2.example2.test" />
+      <option name="MAIN_CLASS_NAME" value="lr10.example1.excel.test" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.table2.example3.*" />
+          <option name="PATTERN" value="lr10.example1.excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lr9.table2.example3.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lr9.table2.example2.Main" />
+        <item itemvalue="Application.HtmlWriteToFile" />
+        <item itemvalue="Application.ExcelImprove" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Example12" />
+        <item itemvalue="Application.hh" />
+        <item itemvalue="Application.XmlParserRead" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +193,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669319790798</updated>
+      <workItem from="1678974384682" duration="17052000" />
+      <workItem from="1678997345407" duration="2493000" />
+      <workItem from="1679043302099" duration="21706000" />
+      <workItem from="1679155437601" duration="13676000" />
+      <workItem from="1679218270362" duration="26333000" />
+      <workItem from="1679247835775" duration="1002000" />
+      <workItem from="1679248923512" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669473634567</created>
@@ -287,8 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677683238841</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="lr9">
+      <created>1677840276907</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677840276907</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -314,6 +392,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="lr7" />
     <MESSAGE value="lr8" />
@@ -331,10 +410,36 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="newsParent.get(5)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
+        <item name="java_course" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
+        <item name="java_course" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_course$newsParsing.ic" NAME="newsParsing Coverage Results" MODIFIED="1678995076746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lr10.example1.newsParsing.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/java_course$ex2.ic" NAME="ex2 Coverage Results" MODIFIED="1672135725933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>reset.lr3.*</FILTER>
     </SUITE>
