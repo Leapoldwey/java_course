@@ -4,8 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr10">
+    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr10 upd">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/LinkedListHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/LinkedListTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example6/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example7/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/LinkedListWithRecurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/MainWithRecurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/add/SortedMapAddingToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/add/SortedMapAddingToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/get/SortedMapGetElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/remove/SortedMapRemoveToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/remove/SortedMapRemoveToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/get/ArrayDequeGetElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/get/ArrayListGetElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheMiddle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,45 +81,48 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ShowUsagesActions.previewPropertyKey": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/java_course",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ShowUsagesActions.previewPropertyKey&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/java_course&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1\json" />
       <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1\xml" />
       <recent name="C:\Users\User\IdeaProjects\java_course\src\lr10\example1" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="lr11.example3.example8" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.HtmlWriteToFile">
-    <configuration name="ExcelImprove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.example2.excel.ExcelImprove" />
+  <component name="RunManager" selected="Application.SortedMapGetElement">
+    <configuration name="ArrayDequeGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayDeque.get.ArrayDequeGetElement" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.example2.excel.*" />
+          <option name="PATTERN" value="lr11.example6.arrayDeque.get.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HtmlWriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.example2.html.HtmlWriteToFile" />
+    <configuration name="ArrayDequeGetElementBeginning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayDeque.get.ArrayDequeGetElementBeginning" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.example2.html.*" />
+          <option name="PATTERN" value="lr11.example6.arrayDeque.get.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlParserRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.example1.xml.XmlParserRead" />
+    <configuration name="ArrayListGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayList.get.ArrayListGetElement" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.example1.xml.*" />
+          <option name="PATTERN" value="lr11.example6.arrayList.get.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.example2.html.hh" />
+    <configuration name="SortedMapGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.example6.SortedMap.get.SortedMapGetElement" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.example2.html.*" />
+          <option name="PATTERN" value="lr11.example6.SortedMap.get.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.example1.excel.test" />
+    <configuration name="SortedMapRemoveToTheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.example6.SortedMap.remove.SortedMapRemoveToTheEnd" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.example1.excel.*" />
+          <option name="PATTERN" value="lr11.example6.SortedMap.remove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +182,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ArrayDequeGetElement" />
+      <item itemvalue="Application.ArrayDequeGetElementBeginning" />
+      <item itemvalue="Application.ArrayListGetElement" />
+      <item itemvalue="Application.SortedMapGetElement" />
+      <item itemvalue="Application.SortedMapRemoveToTheEnd" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HtmlWriteToFile" />
-        <item itemvalue="Application.ExcelImprove" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.hh" />
-        <item itemvalue="Application.XmlParserRead" />
+        <item itemvalue="Application.SortedMapGetElement" />
+        <item itemvalue="Application.ArrayListGetElement" />
+        <item itemvalue="Application.ArrayDequeGetElement" />
+        <item itemvalue="Application.ArrayDequeGetElementBeginning" />
+        <item itemvalue="Application.SortedMapRemoveToTheEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +214,21 @@
       <workItem from="1679218270362" duration="26333000" />
       <workItem from="1679247835775" duration="1002000" />
       <workItem from="1679248923512" duration="1145000" />
+      <workItem from="1679250256266" duration="194000" />
+      <workItem from="1679313434258" duration="214000" />
+      <workItem from="1679550961662" duration="983000" />
+      <workItem from="1679587657148" duration="5972000" />
+      <workItem from="1679667367238" duration="10696000" />
+      <workItem from="1679746299487" duration="11568000" />
+      <workItem from="1679832535590" duration="14325000" />
+      <workItem from="1679934420272" duration="3247000" />
+      <workItem from="1680013080379" duration="1514000" />
+      <workItem from="1680103787290" duration="7126000" />
+      <workItem from="1680112776374" duration="41000" />
+      <workItem from="1680367632595" duration="1870000" />
+      <workItem from="1680432232136" duration="18283000" />
+      <workItem from="1680544345204" duration="2758000" />
+      <workItem from="1680601613290" duration="23193000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669473634567</created>
@@ -333,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679249901248</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="lr10 upd">
+      <created>1679250441988</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679250441988</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +441,8 @@
     <MESSAGE value="lr8" />
     <MESSAGE value="lr9" />
     <MESSAGE value="lr10" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr10" />
+    <MESSAGE value="lr10 upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr10 upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,6 +450,16 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/reset/lr2/ex3dontnoDone.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr11/example3/example4/Test1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr11/example3/example5/LinkedListTail.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
@@ -417,6 +500,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/java_course$lr4_Example1.ic" NAME="lr4.Example1 Coverage Results" MODIFIED="1670964527219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lr4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_course$Example2.ic" NAME="Example2 Coverage Results" MODIFIED="1679674465976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lr11.*</FILTER>
     </SUITE>
   </component>
 </project>
