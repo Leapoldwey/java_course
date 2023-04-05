@@ -4,46 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr10 upd">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example2/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example4/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/LinkedListHead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/LinkedListTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example5/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example6/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example7/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/LinkedListWithRecurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example3/example8/MainWithRecurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/add/SortedMapAddingToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/add/SortedMapAddingToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/get/SortedMapGetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/remove/SortedMapRemoveToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/SortedMap/remove/SortedMapRemoveToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/add/ArrayDequeAddingToTheMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/get/ArrayDequeGetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayDeque/remove/ArrayDequeRemoveToTheMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/add/ArrayListAddingToTheMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/get/ArrayListGetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheBeginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr11/example6/arrayList/remove/ArrayListRemoveToTheMiddle.java" afterDir="false" />
+    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr12">
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Example6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" afterDir="false" />
     </list>
@@ -116,13 +83,13 @@
       <recent name="lr11.example3.example8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedMapGetElement">
-    <configuration name="ArrayDequeGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayDeque.get.ArrayDequeGetElement" />
+  <component name="RunManager" selected="Application.lr13.Example4">
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Example5" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.arrayDeque.get.*" />
+          <option name="PATTERN" value="lr13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDequeGetElementBeginning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayDeque.get.ArrayDequeGetElementBeginning" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Example6" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.arrayDeque.get.*" />
+          <option name="PATTERN" value="lr13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.arrayList.get.ArrayListGetElement" />
+    <configuration name="lr13.Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Example2" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.arrayList.get.*" />
+          <option name="PATTERN" value="lr13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedMapGetElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.SortedMap.get.SortedMapGetElement" />
+    <configuration name="lr13.Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Example3" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.SortedMap.get.*" />
+          <option name="PATTERN" value="lr13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedMapRemoveToTheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr11.example6.SortedMap.remove.SortedMapRemoveToTheEnd" />
+    <configuration name="lr13.Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Example4" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr11.example6.SortedMap.remove.*" />
+          <option name="PATTERN" value="lr13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +150,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayDequeGetElement" />
-      <item itemvalue="Application.ArrayDequeGetElementBeginning" />
-      <item itemvalue="Application.ArrayListGetElement" />
-      <item itemvalue="Application.SortedMapGetElement" />
-      <item itemvalue="Application.SortedMapRemoveToTheEnd" />
+      <item itemvalue="Application.Example5" />
+      <item itemvalue="Application.Example6" />
+      <item itemvalue="Application.lr13.Example2" />
+      <item itemvalue="Application.lr13.Example3" />
+      <item itemvalue="Application.lr13.Example4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedMapGetElement" />
-        <item itemvalue="Application.ArrayListGetElement" />
-        <item itemvalue="Application.ArrayDequeGetElement" />
-        <item itemvalue="Application.ArrayDequeGetElementBeginning" />
-        <item itemvalue="Application.SortedMapRemoveToTheEnd" />
+        <item itemvalue="Application.lr13.Example4" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.lr13.Example3" />
+        <item itemvalue="Application.lr13.Example2" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +195,13 @@
       <workItem from="1680367632595" duration="1870000" />
       <workItem from="1680432232136" duration="18283000" />
       <workItem from="1680544345204" duration="2758000" />
-      <workItem from="1680601613290" duration="23193000" />
+      <workItem from="1680601613290" duration="23751000" />
+      <workItem from="1680638452147" duration="2911000" />
+      <workItem from="1680688345474" duration="9213000" />
+      <workItem from="1680794241904" duration="334000" />
+      <workItem from="1681392475568" duration="90000" />
+      <workItem from="1681392794206" duration="7193000" />
+      <workItem from="1681641701445" duration="6866000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669473634567</created>
@@ -405,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679250441988</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lr11">
+      <created>1680630801391</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680630801391</updated>
+    </task>
+    <task id="LOCAL-00027" summary="lr12">
+      <created>1680697423535</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1680697423535</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +429,9 @@
     <MESSAGE value="lr9" />
     <MESSAGE value="lr10" />
     <MESSAGE value="lr10 upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr10 upd" />
+    <MESSAGE value="lr11" />
+    <MESSAGE value="lr12" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
