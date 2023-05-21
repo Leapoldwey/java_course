@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr12">
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/Example6.java" afterDir="false" />
+    <list default="true" id="7ab8cc0f-610b-4bd5-a7a3-9d2876bc2eab" name="Changes" comment="lr13">
+      <change afterPath="$PROJECT_DIR$/src/timus/code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1012/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1036/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1209/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1224/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1225/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1313/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1313/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1349/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1753/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1777/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/example1/xml/XmlParserRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr13/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr13/Example3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +36,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8dafa48d-78a5-4b63-8b93-aacc2bdc2aaf" />
+        <option name="url" value="https://github.com/Leapoldwey/java_course.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/lr3/Example2.java" root0="FORCE_HIGHLIGHTING" />
@@ -83,13 +103,13 @@
       <recent name="lr11.example3.example8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lr13.Example4">
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Example5" />
+  <component name="RunManager" selected="Application.timus.task_1777.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1012.Main" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="timus.task_1012.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Example6" />
+    <configuration name="timus.task_1224.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1224.Main" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="timus.task_1224.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr13.Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Example2" />
+    <configuration name="timus.task_1349.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1349.Main" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="timus.task_1349.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr13.Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Example3" />
+    <configuration name="timus.task_1753.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1753.Main" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="timus.task_1753.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr13.Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Example4" />
+    <configuration name="timus.task_1777.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1777.Main" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="timus.task_1777.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example5" />
-      <item itemvalue="Application.Example6" />
-      <item itemvalue="Application.lr13.Example2" />
-      <item itemvalue="Application.lr13.Example3" />
-      <item itemvalue="Application.lr13.Example4" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.timus.task_1224.Main" />
+      <item itemvalue="Application.timus.task_1349.Main" />
+      <item itemvalue="Application.timus.task_1753.Main" />
+      <item itemvalue="Application.timus.task_1777.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lr13.Example4" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.lr13.Example3" />
-        <item itemvalue="Application.lr13.Example2" />
+        <item itemvalue="Application.timus.task_1777.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.timus.task_1753.Main" />
+        <item itemvalue="Application.timus.task_1349.Main" />
+        <item itemvalue="Application.timus.task_1224.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +221,10 @@
       <workItem from="1680794241904" duration="334000" />
       <workItem from="1681392475568" duration="90000" />
       <workItem from="1681392794206" duration="7193000" />
-      <workItem from="1681641701445" duration="6866000" />
+      <workItem from="1681641701445" duration="7368000" />
+      <workItem from="1681669241852" duration="785000" />
+      <workItem from="1681758978855" duration="965000" />
+      <workItem from="1684656528404" duration="14299000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669473634567</created>
@@ -392,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680697423535</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="lr13">
+      <created>1681655195199</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681655195199</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +439,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -431,7 +461,8 @@
     <MESSAGE value="lr10 upd" />
     <MESSAGE value="lr11" />
     <MESSAGE value="lr12" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr12" />
+    <MESSAGE value="lr13" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
